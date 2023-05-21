@@ -27,7 +27,7 @@
 using UnityEngine;
 using UnityEditor;
 
-#ROOTNAMESPACEBEGIN#
+    #ROOTNAMESPACEBEGIN#
 public class #SCRIPTNAME# : EditorWindow
 {
     private const string WINDOW_TITLE = "#SCRIPTNAME#";

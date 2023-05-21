@@ -29,7 +29,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Playables;
 
-#ROOTNAMESPACEBEGIN#
+    #ROOTNAMESPACEBEGIN#
 // A behaviour that is attached to a playable
 public class #SCRIPTNAME# : PlayableBehaviour
 {

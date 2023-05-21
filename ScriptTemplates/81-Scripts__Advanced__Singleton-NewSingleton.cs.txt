@@ -24,7 +24,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-#ROOTNAMESPACEBEGIN#
+    #ROOTNAMESPACEBEGIN#
 public class #SCRIPTNAME# : Singleton<#SCRIPTNAME#>
 {
     public static bool IsReady;

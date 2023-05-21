@@ -25,14 +25,18 @@
  */
 
 using System.Collections;
-using System.Collections.Generic;
 using NUnit.Framework;
-using UnityEngine;
 using UnityEngine.TestTools;
 
-#ROOTNAMESPACEBEGIN#
+    #ROOTNAMESPACEBEGIN#
 public class #SCRIPTNAME#
 {
+    [SetUp]
+    public void Setup()
+    {
+        #NOTRIM#
+    }
+
     [Test]
     public void #SCRIPTNAME#SimplePasses()
     {

@@ -24,10 +24,10 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-#ROOTNAMESPACEBEGIN#
-public class #SCRIPTNAME#
+    #ROOTNAMESPACEBEGIN#
+public void class #SCRIPTNAME#
 {
-    public EmptyClass()
+    public void EmptyClass()
     {
         #NOTRIM#
     }

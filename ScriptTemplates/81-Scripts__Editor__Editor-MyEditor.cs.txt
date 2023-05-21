@@ -27,7 +27,7 @@
 using UnityEngine;
 using UnityEditor;
 
-#ROOTNAMESPACEBEGIN#
+    #ROOTNAMESPACEBEGIN#
 // Custom editor for <see cref="#SCRIPTNAME#"/> objects.
 [CustomEditor(typeof(#SCRIPTNAME#))]
 public class #SCRIPTNAME# : Editor

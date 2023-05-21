@@ -27,7 +27,7 @@
 using UnityEngine.SceneManagement;
 using UnityEditor.SceneTemplate;
 
-#ROOTNAMESPACEBEGIN#
+    #ROOTNAMESPACEBEGIN#
 public class #SCRIPTNAME# : ISceneTemplatePipeline
 {
     public virtual bool IsValidTemplateForInstantiation(SceneTemplateAsset sceneTemplateAsset)
